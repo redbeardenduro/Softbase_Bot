@@ -1,0 +1,1929 @@
+2024-07-29 18:35:00,531 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:00,534 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:00,534 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:03,610 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:03,614 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:03,614 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:07,098 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:07,102 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:07,103 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:09,911 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:09,915 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:09,915 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:13,839 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:13,843 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:13,843 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:16,800 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:16,805 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:16,805 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:19,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:19,013 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:19,013 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:22,022 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:22,032 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:22,032 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:25,540 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:25,544 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:25,544 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:28,360 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:28,364 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:28,364 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:30,855 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:30,859 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:30,859 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:34,267 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:34,270 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:34,270 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:37,596 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:37,601 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:37,601 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:42,623 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:42,626 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:42,627 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:35:45,342 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:35:45,346 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:35:45,346 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:37:38,695 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:37:38,699 - ERROR - Error getting suggestions: 'ChatCompletion' object is not subscriptable
+2024-07-29 18:37:38,699 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:37:41,331 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:37:41,335 - ERROR - Error getting suggestions: 'ChatCompletion' object is not subscriptable
+2024-07-29 18:37:41,335 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:38:47,742 - ERROR - Error getting suggestions: 'OpenAI' object has no attribute 'ChatCompletion'
+2024-07-29 18:38:47,742 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:38:48,526 - ERROR - Error getting suggestions: 'OpenAI' object has no attribute 'ChatCompletion'
+2024-07-29 18:38:48,527 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:38:49,265 - ERROR - Error getting suggestions: 'OpenAI' object has no attribute 'ChatCompletion'
+2024-07-29 18:38:49,265 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:38:50,129 - ERROR - Error getting suggestions: 'OpenAI' object has no attribute 'ChatCompletion'
+2024-07-29 18:38:50,129 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:38:50,909 - ERROR - Error getting suggestions: 'OpenAI' object has no attribute 'ChatCompletion'
+2024-07-29 18:38:50,910 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:39:52,541 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:39:52,542 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:39:53,302 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:39:53,302 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:39:54,074 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:39:54,074 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:39:54,926 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:39:54,927 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:39:55,689 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:39:55,689 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:39:56,368 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:39:56,368 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:39:57,173 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:39:57,173 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:39:57,956 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:39:57,956 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:39:58,826 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:39:58,826 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:39:59,618 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:39:59,619 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:42:09,594 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:42:09,595 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:42:10,427 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:42:10,428 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:43:51,222 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:43:51,223 - INFO - Suggestions for example.py:
+
+
+2024-07-29 18:47:44,186 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:47:44,186 - INFO - Suggestions for ./get_code_suggestions.py:
+
+
+2024-07-29 18:47:45,011 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:47:45,012 - INFO - Suggestions for ./get_code_suggestions.py:
+
+
+2024-07-29 18:48:36,213 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:48:36,214 - INFO - Suggestions for ./example.py:
+
+
+2024-07-29 18:48:37,173 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:48:37,173 - INFO - Suggestions for ./example.py:
+
+
+2024-07-29 18:51:22,168 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:51:22,168 - INFO - Suggestions for ./example.py:
+
+
+2024-07-29 18:54:13,887 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:54:13,887 - INFO - Suggestions for ./example.py:
+
+
+2024-07-29 18:54:14,653 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 18:54:14,653 - INFO - Suggestions for ./example.py:
+
+
+2024-07-29 18:59:43,836 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/example.py...
+2024-07-29 18:59:46,568 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 18:59:46,572 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 18:59:46,572 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/example.py:
+
+
+2024-07-29 18:59:46,601 - INFO - Script /home/ubuntu/environment/Softbase_Bot/example.py ran successfully.
+2024-07-29 18:59:47,043 - ERROR - Tests failed with output:
+
+no tests ran in 0.01s
+
+
+2024-07-29 18:59:47,067 - ERROR - main.py failed with error:
+python3: can't open file '/home/ubuntu/environment/Softbase_Bot/main.py': [Errno 2] No such file or directory
+
+2024-07-29 18:59:47,067 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/run_all.py...
+2024-07-29 19:02:47,285 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/run_all.py...
+2024-07-29 19:03:15,966 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:03:15,970 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 19:03:15,970 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/run_all.py:
+
+
+2024-07-29 19:03:36,274 - INFO - Script /home/ubuntu/environment/Softbase_Bot/run_all.py ran successfully.
+2024-07-29 19:03:36,539 - ERROR - Tests failed with output:
+
+no tests ran in 0.01s
+
+
+2024-07-29 19:03:56,797 - INFO - run_all.py ran successfully.
+2024-07-29 19:03:56,797 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/.~c9_invoke_7CQEtd.py...
+2024-07-29 19:04:29,798 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:04:29,800 - ERROR - Error getting suggestions: 'ChatCompletionMessage' object is not subscriptable
+2024-07-29 19:04:29,800 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/.~c9_invoke_7CQEtd.py:
+
+
+2024-07-29 19:09:13,899 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/.~c9_invoke_7CQEtd.py...
+2024-07-29 19:09:13,900 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 19:09:13,900 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/.~c9_invoke_7CQEtd.py:
+
+
+2024-07-29 19:12:27,260 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 19:12:27,262 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 19:12:27,262 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py:
+
+
+2024-07-29 19:12:27,792 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions_test.py...
+2024-07-29 19:12:27,792 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 19:12:27,792 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions_test.py:
+
+
+2024-07-29 19:12:27,850 - INFO - Script /home/ubuntu/environment/Softbase_Bot/get_code_suggestions_test.py ran successfully.
+2024-07-29 19:12:28,181 - INFO - All tests passed.
+2024-07-29 19:12:48,427 - INFO - run_all.py ran successfully.
+2024-07-29 19:12:48,427 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 19:12:48,427 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 19:12:48,428 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py:
+
+
+2024-07-29 19:12:48,935 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions_test_test.py...
+2024-07-29 19:12:48,936 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 19:12:48,936 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions_test_test.py:
+
+
+2024-07-29 19:12:48,986 - INFO - Script /home/ubuntu/environment/Softbase_Bot/get_code_suggestions_test_test.py ran successfully.
+2024-07-29 19:12:49,356 - INFO - All tests passed.
+2024-07-29 19:13:09,670 - INFO - run_all.py ran successfully.
+2024-07-29 19:13:09,670 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 19:13:09,671 - ERROR - Error getting suggestions: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-07-29 19:13:09,671 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py:
+
+
+2024-07-29 19:30:35,765 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 19:30:58,032 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:30:58,035 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+Here are a few suggestions:
+
+1. Exception Handling: Instead of catching all exceptions with a general `Exception`, you should use specific exceptions. This way, you can handle different exceptions differently and it can also help in debugging if something goes wrong. For example, it might be more appropriate to use a specific OpenAI library exception.
+
+2. Environment Variable Check: Before using `os.getenv`, it's a good idea to check if the environment variable is present or not using `os.environ.has_key`. This can mitigate possible problems down the line if the specified key is not present.
+
+3. Test Teardown: `tearDown` (or `tearDownClass`) method is missing in your test class. This method is used to deallocate resources or rollback uncommitted transactions. If there are any such operations, they should be placed here.
+
+4. Error Messages: It's a good practice to provide custom error messages in each of your assertion statement. This will be more user-friendly, and helpful when you run the tests, should they fail.
+
+5. Model Existence: Before making a request using "gpt-4", you can verify if it's a valid model or not.
+
+6. Hard Coded Values: The model name and the messages are hard-coded in your test. It would be better to use constants, variables or fixtures at the start of your file or test method, so it can be changed easily in the future.
+
+7. Unit Test Principle: Unit tests should ideally test functions in isolation. Currently, your `test_openai_api_access` is not just testing the api access, but also many other things like the existence of messages etc. Such a detailed check may be better suited for an integration test. 
+
+8. Documentation: Including docstrings for the script and classes would be useful for users and developers to understand what the code is meant to do. You have done well to include docstrings for your test cases.
+
+This is just some general feedback, depending on the specific needs of your project more specific changes might be required.
+
+2024-07-29 19:30:58,037 - ERROR - SyntaxError while parsing code: unterminated string literal (detected at line 46) (<unknown>, line 46)
+2024-07-29 19:30:58,136 - ERROR - Script /home/ubuntu/environment/Softbase_Bot/test_openai_api.py failed with error:
+  File "/home/ubuntu/environment/Softbase_Bot/test_openai_api.py", line 46
+    2. Environment Variable Check: Before using `os.getenv`, it's a good idea to check if the environment variable is present or not using `os.environ.has_key`. This can mitigate possible problems down the line if the specified key is not present.
+                                                               ^
+SyntaxError: unterminated string literal (detected at line 46)
+
+2024-07-29 19:30:58,136 - ERROR - Errors encountered while running /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:   File "/home/ubuntu/environment/Softbase_Bot/test_openai_api.py", line 46
+    2. Environment Variable Check: Before using `os.getenv`, it's a good idea to check if the environment variable is present or not using `os.environ.has_key`. This can mitigate possible problems down the line if the specified key is not present.
+                                                               ^
+SyntaxError: unterminated string literal (detected at line 46)
+
+2024-07-29 19:30:58,136 - INFO - Reverting changes for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py due to errors.
+2024-07-29 19:31:03,272 - INFO - All tests passed.
+2024-07-29 19:38:27,903 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 19:38:51,114 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:38:51,117 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+Your code is generally good, but there are a few changes and improvements you could consider:
+
+1. Exception Handling: It's not clear what kinds of exceptions the API call can raise. You're currently catching all exceptions, which can hide bugs. A more specific catch might be appropriate if there are specific expected exception(s).
+
+2. Check the HTTP Status Code: In the test_openai_api_access method, instead of just checking if the response is not None or it has 'choices', it's also important to verify that the returned HTTP status code is 200, indicating a successful HTTP request.
+
+3. Move API Key Loading To The Constructor: In case each test requires its own instance of the API client, it might be better to set it up in the setUp method rather than the setUpClass method.
+
+4. Confidentiality: If you're running this code in a CI/CD pipeline, just ensure that sensitive data such as API keys are properly protected.
+
+5. Test Data in .env file: If the `.env` file is constant and does not change between test execution, consider moving it into a setUp method to avoid it being loaded more than necessary.
+
+6. Validation of Response Content: It might be useful to validate the content of the response too, not just its existence or attribute. This will help to ensure that the API is behaving as expected.
+
+7. Check for Test Dependencies: Make sure to avoid test inter-dependencies. In your case, if test_api_key_loaded fails, test_openai_api_access is likely to fail as well.
+
+8. Use of "gpt-4" model: As of the time this message is written, "gpt-4" does not exist. This may result in a failure when running the test.
+
+9. Assumptions about response: The test is assuming that there'll be at least one choice in the response. This might not always be the case depending on the parameters sent to the API. Consider handling the case when there are no choices in the response.
+
+These suggested improvements can help your testing become more effective and thorough. However, your current tests do a fair job of checking the basic functionality of the OpenAI API access.
+
+2024-07-29 19:38:51,118 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 5) (<string>, line 5)
+2024-07-29 19:38:51,118 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 19:38:51,118 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 19:39:20,081 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:39:20,083 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py:
+Here are some improvements or changes you might consider:
+
+1. Better error handling: Currently, errors raised from various functions, e.g., `run_script()`, `run_tests()`, are logged and then swallowed. The calling function then continues to the next line as if nothing happened. This might not be the desired behavior especially when you're making changes to files based on AI suggestions and tests or code runs fail. 
+
+2. Intention behind Sleep: In the `scan_and_process_directory(root_dir, exclude_files=None)` method, you have a sleep time of 60 seconds after processing each file. The intention behind this isn't clear. If you are trying to rate-limit your processing, it would help to document this. If there is no explicit reasoning, you might want to consider removing it.
+
+3. Hardcoded model name: You are currently using the "gpt-4" directly in the functions `get_code_suggestions(code)` and `get_error_suggestions(error_log)`. You can make it configurable by moving it to a constant at the top of your script or making it a function argument with a default value.
+
+4. Abstract writing to a file: You can abstract the logic for writing to a file into a separate function. This will provide clarity and reduce redundancy since it is currently done in `write_code_file(file_path, code)`, `generate_tests(file_path, functions)` and `mark_file_as_processed(processed_files_path, file_path)`.
+
+5. Environment Specific Code: You are using `pytest` in your `run_tests()` function. Pytest is not part of Python's standard library and may not exist in some environments. Make sure you handle this in your documentation and installation setup.
+
+6. Code Commenting: The code is well-written and organised, however, it lacks comments around the business logic of what exactly the code is doing. This will certainly assist any future developers.
+
+7. Script testing: Current testing seems to only be focused on unit-level function tests. You might want to include some integration or end-to-end tests that can simulate how users would interact with your program.
+
+8. Directory handling: Instead of running continuously and checking for new files, you might want to consider using a directory watcher library which can trigger events when a new file is added. This will save resources by not continuously polling for new files.
+
+9. User output: For a user running this script, it could be important to see output in real time. Capturing all output messages to only a log file makes the script silent. Maybe consider adding a verbose mode which additionally prints out the log messages to console.
+
+10. Currently you are backing-up and restoring files if there is an error in script execution. It might be ideal to verify the `updated_code` by running it before actually replacing the original file. This way, you can avoid multiple file operations.
+
+2024-07-29 19:39:20,083 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 19:39:20,083 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py, skipping.
+2024-07-29 19:39:20,083 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/config/settings.py...
+2024-07-29 19:39:45,255 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:39:45,256 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/config/settings.py:
+Here are a few suggestions:
+
+1. Validate Environment Variables: You can add a basic validation for your environment variables. For example, for required environment variables, you can throw an error if they are not defined. 
+
+2. Convert Data Types: Some of your environment variables are being converted to integer or other types. For these, you may want to add some error handling for cases where they cannot be converted successfully.
+
+3. Use dotenv.find_dotenv(): The find_dotenv() method in python-dotenv module will try to find a .env file by (a) guessing from where you are currently running your code, and if it can't find one (b) checking up one directory at a time until it hits the root of your filesystem.
+
+4. Secure Passwords: For passwords and sensitive data, consider using more secure methods to store and retrieve them like using environment variables directly, using Keyring or other secret management tools.
+
+Here's an example of your updated code:
+
+```python
+import os
+from dotenv import load_dotenv, find_dotenv
+import sys
+
+# Load environment variables from .env file
+load_dotenv(find_dotenv())
+
+def get_env_variable(var_name, default=None):
+    try:
+        return os.getenv(var_name, default)
+    except KeyError:
+        error_msg = f"Set the {var_name} environment variable"
+        raise Exception(error_msg)
+
+class Config:
+    DB_HOST = get_env_variable('DB_HOST', 'localhost')
+    try:
+        DB_PORT = int(get_env_variable('DB_PORT', '5432'))  # Default to 5432 if not set
+    except ValueError:
+        print("Invalid value for DB_PORT. It should be a number")
+        sys.exit(1)
+
+    DB_USER = get_env_variable('DB_USER', 'test_user')
+    DB_PASSWORD = get_env_variable('DB_PASSWORD', 'test_password')
+    DB_NAME = get_env_variable('DB_NAME', 'test_db')
+    OPENAI_API_KEY = get_env_variable('OPENAI_API_KEY', 'your_openai_api_key')
+    FROM_EMAIL = get_env_variable('FROM_EMAIL', 'your_email@example.com')
+    FROM_PASSWORD = get_env_variable('FROM_PASSWORD', 'your_email_password')
+```
+
+This may not cover all use cases, and a more comprehensive solution should be tailored to your specific needs.
+
+2024-07-29 19:39:45,257 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 7) (<string>, line 7)
+2024-07-29 19:39:45,257 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/config/settings.py, skipping.
+2024-07-29 19:39:45,257 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/config/__init__.py...
+2024-07-29 19:40:01,908 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:40:01,910 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/config/__init__.py:
+The provided code is Pythonic and straightforward. It does not require much in the way of improvement. However, by using `pathlib`, introduced in Python 3.4, we can achieve a similar result in a much cleaner way:
+
+```python
+from pathlib import Path
+sys.path.append(str(Path(__file__).resolve().parents[2]))
+```
+
+This revised code does the same thing: it adds the grandparent directory of the current file to the front of the system path.
+
+- It uses `Path.resolve()`, which simplifies the path (removing things like `..`) and makes it absolute.
+- It uses `Path.parents` to directly access the parents of the directory, which is less error-prone than `os.path.join` and `..`.
+- It uses `Path(__file__)` instead of `os.path.dirname(__file__)`. This is preferrable because it is clear, concise, and Pythonic.
+
+Thus, the revised code is equally effective and more Pythonic. 
+
+Additionally, for better readability, avoid the use of magic numbers. It would be better to define a constant near the top of your module for the parent index:
+
+```python
+GRANDPARENT_DIR_INDEX = 2
+sys.path.append(str(Path(__file__).resolve().parents[GRANDPARENT_DIR_INDEX]))
+```
+
+This ensures if the directory sturcture is modified, you only need to change this constant.
+
+2024-07-29 19:40:01,910 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 19:40:01,911 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/config/__init__.py, skipping.
+2024-07-29 19:40:01,911 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/orchestrator/main.py...
+2024-07-29 19:40:42,684 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:40:42,686 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/orchestrator/main.py:
+Here are a few suggestions:
+
+1. **Error Handling:**
+
+    While you have good general error handling in your `try/except` block, you might want to add more specific error handling in certain places. For example, when making network requests, you might encounter a `requests.exceptions.RequestException`. Handling these specifically will help you debug issues.
+
+2. **Code Duplication:**
+
+    There are several places where similar action is performed, such as sending a POST request to different services. They all follow the same pattern, you send a post request, check status, log if something’s wrong. This could be modularized into its own function.
+
+3. **Hardcoding URLs:**
+
+    The URLs for the services are hardcoded multiple times throughout your script. If these ever change, you would have to go through and change them all individually, which could be prone to errors. It's often better to store these in a configuration file, or at the beginning of your script as global variables.
+
+4. **Secure Information:**
+
+    In the line that sets `email_data`, the recipient email is hardcoded into the script. In a professional setting, this could potentially be a security risk. You might want to put this, and similar sensitive information, into a secure environment variable or a secure file, and then load it when necessary.
+
+5. **Logging Information:**
+
+    Instead of using `print` to output the report and duplicates, you could use `logging.info`. This way, all of your output is controlled by your logging configuration.
+
+6. **Clear structure and commenting:**
+
+    Although you have some comments in your code and have structured your code into a `run_bot` function, it might be helpful to further separate your code into functions or classes each handling different concerns for readability and maintainability.
+
+Here is how some of these changes might look:
+
+```python
+import requests
+import logging
+from config.settings import Config
+
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+SERVICES = {
+    "load_parts": "http://localhost:8003/load_parts_data",
+    "generate_report": "http://localhost:8001/generate_report",
+    ...
+}
+
+def post_to_service(service_url, data):
+    try:
+        response = requests.post(service_url, json=data)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Failed to post to {service_url}: {e}")
+        return None
+    return response.json()    
+
+def run_bot():
+    try:
+        ...
+        response = post_to_service(SERVICES["generate_report"], report_request_data)
+        report = response.get("report") if response else None
+        ...
+        response = post_to_service(SERVICES["merge_duplicates"], merge_data)
+        if not response:
+            logging.error("Failed to merge duplicates")
+        ...
+
+    except Exception as e:
+        logging.error(f"An error occurred: {e}")
+
+if __name__ == "__main__":
+    run_bot()
+```
+Remember that these are all suggestions, and the exact improvements might depend on other information not visible in this code such as your full project structure or your team’s development practices. Make sure to test all changes thoroughly to guarantee that they don't introduce new issues.
+
+2024-07-29 19:40:42,686 - ERROR - SyntaxError in suggestions: invalid character '’' (U+2019) (<string>, line 9)
+2024-07-29 19:40:42,686 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/orchestrator/main.py, skipping.
+2024-07-29 19:40:42,686 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/orchestrator/__init__.py...
+2024-07-29 19:45:00,964 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 19:45:37,346 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:45:37,349 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+Your code looks pretty good. It properly uses Python's unittest framework, cleanly checks if the API keys are loaded and if they're able to access the OpenAI API, and the usage of Python best practices. Here are some improvements that could be applied:
+
+1. Logging: Instead of using print statements, consider using the logging module, which will allow you more control over where these messages are output.
+
+2. Commenting: More specific comments regarding what each function does could be added above every function definition. This helps future contributors understand the intentions of the original programmer.
+
+3. Error Handling: Catching a general exception might not be the best approach, instead attempt to catch specific exceptions that you expect might happen.
+
+4. Test More Aspects: You might want to add more tests, like tests that check if the OpenAI API can handle invalid input, if the return types of APIs are as expected etc.
+
+5. Configurable Model Name: Instead of hardcoding the model name "gpt-4", it can be loaded from environment variables or passed as a parameter to the test.
+
+6. Assertion Messages: Keep assertion failure messages more informative.
+
+Here's how you could implement these changes:
+
+```python
+import os
+import unittest
+import logging
+from dotenv import load_dotenv
+from openai import OpenAI
+
+logging.basicConfig(level=logging.DEBUG)
+
+class TestOpenAIAccess(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        """Setup test class. Load environment variables and instantiate OpenAI."""
+        load_dotenv()
+        cls.api_key = os.getenv("OPENAI_API_KEY")
+        cls.client = OpenAI(api_key=cls.api_key)
+    
+    def test_api_key_loaded(self):
+        """Test if API key is loaded correctly from .env file"""
+        self.assertIsNotNone(self.api_key, "The API key is not loaded correctly. The key should not be None.")
+        self.assertTrue(len(self.api_key) > 0, "The API key is not loaded correctly. The key should not be an empty string.")
+
+    def test_openai_api_access(self):
+        """Test if OpenAI API call is successful"""
+        try:
+            response = self.client.chat.completions.create(
+                model=os.getenv('OPENAI_MODEL', 'gpt-3'),
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant."},
+                    {"role": "user", "content": "Hello, can you confirm if the OpenAI API is accessible?"}
+                ]
+            )
+            self.assertIsNotNone(response, "The API response is not returning any data.")
+            self.assertTrue(hasattr(response, 'choices'), "The API response does not contain 'choices'.")
+            self.assertGreater(len(response.choices), 0, "The 'choices' in the API response should not be empty.")
+            self.assertTrue(hasattr(response.choices[0], 'message'), "The 'choices' in the API response does not contain 'message'.")
+            self.assertTrue(hasattr(response.choices[0].message, 'content'), "'Message' does not contain 'content'.")
+            logging.info("OpenAI API is accessible and returned a valid response.")
+        except Exception as e:
+            logging.error(f"OpenAI API access failed: {e}")
+            self.fail(f"OpenAI API access failed: {e}")
+
+if __name__ == "__main__":
+    unittest.main()
+```
+In this revised code, I've added more detailed failure messages to the assertions, added logging instead of print statements, loaded the model from an environment variable with a default value of 'gpt-3', and added more detailed comments to the class and method declarations.
+
+2024-07-29 19:45:37,349 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 15) (<string>, line 15)
+2024-07-29 19:45:37,350 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 19:45:37,350 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 19:45:59,440 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:45:59,441 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py:
+Here are some improvements or changes that you could consider for your code:
+
+1. Error Logging: It is commendable that errors are being logged. However, it might be helpful to split the log based on INFO and ERROR. For critical errors consider using logging.critical() .
+
+2. Configurable Parameters: Parameters such as sleep time and root directory could be passed as command line arguments. This would make the script more flexible.
+
+3. Encourage Code Reusability: There's overlapping code between `get_code_suggestions` and `get_error_suggestions` that could be factored out into a helper method. This would aid readability and maintainability.
+
+4. Model Validation: `"gpt-4"` model does not exist currently, you might need to validate if the model is available in OpenAI or have this as a variable that you can update easily.
+
+5. Test Generation: The `generate_tests` function could be improved. For now, it only creates test cases with TODO comments prompting to add tests for the function. Depending on the function parameters, add reasonable default tests. 
+
+6. Directory Re-Scanning: Your current implementation will re-scan directories endlessly. An upper limit might be a safe addition.
+
+7. Backup strategy: If an error is raised, an original backup of the file is restored, that bypasses all possible correct suggestions implemented before the error occurred. Consider making backups after each successful suggestion implementation. 
+
+8. Implement Retry Mechanism: For all API calls to OpenAI, you can implement a retry mechanism in case of network failures or rate limits.
+
+9. Exception Handling: A good practice is, instead of capturing `Exception` (which is base of all Built-in Exceptions), capture specific exceptions you expect could occur so you won't suppress problems that you're not aware of while coding. 
+
+10. Handling KeyboardInterrupts: If the script is being stopped, it will raise a `KeyboardInterrupt` exception which currently isn't handled. It can be useful to catch this so you can perform cleanup, like safe backup and then re-raise the exception.
+
+Remember to test your code thoroughly after making any changes to ensure it's still working as expected.
+
+2024-07-29 19:45:59,441 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 7) (<string>, line 7)
+2024-07-29 19:45:59,441 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py, skipping.
+2024-07-29 19:45:59,441 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/config/settings.py...
+2024-07-29 19:46:30,545 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:46:30,546 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/config/settings.py:
+The provided python code is quite correctly implemented and does its job well, which is to load environment variables and store them in class attributes.
+
+However, depending on your actual application design and needs, you might consider few improvements:
+
+1. **Commenting:**
+
+   Commenting your code is very important for understanding what it does, especially when your projects start to grow in complexity. This code already comes with some comments, but adding more details won't hurt.
+
+2. **Type Checking:**
+
+   You could use 'typing' to ensure that the environment variables are of the correct type and handle exceptions accordingly.
+
+3. **Error Handling:**
+
+   In your current approach if an environmental variable is not found, a default value is provided. If these variables are necessary for your app to function, you might want the app to throw exceptions rather than having incorrect defaults.
+
+4. **Code Reusability:**
+
+   If you ever plan to have more configuration classes similar to this one, then you could consider moving some part of this code to separate class or function to avoid repetition.
+
+Here's how you could implement the above points:
+
+```python
+import os
+from dotenv import load_dotenv
+from typing import Optional
+  
+
+def get_env_variable(var_name: str, default: Optional[str] = None) -> str:
+    var_val = os.getenv(var_name, default)
+    if var_val is None:
+        raise Exception(f"Environment variable '{var_name}' not set and no default value provided!")
+    return var_val 
+
+
+# Load environment variables from .env file
+load_dotenv(os.path.join(os.path.dirname(__file__), '.env'))
+
+
+class Config:
+    DB_HOST = get_env_variable('DB_HOST', 'localhost')
+    DB_PORT = int(get_env_variable('DB_PORT', '5432'))  # Default to 5432 if not set
+    DB_USER = get_env_variable('DB_USER', 'test_user')
+    DB_PASSWORD = get_env_variable('DB_PASSWORD', 'test_password')
+    DB_NAME = get_env_variable('DB_NAME', 'test_db')
+    OPENAI_API_KEY = get_env_variable('OPENAI_API_KEY', 'your_openai_api_key')
+    FROM_EMAIL = get_env_variable('FROM_EMAIL', 'your_email@example.com')
+    FROM_PASSWORD = get_env_variable('FROM_PASSWORD', 'your_email_password')
+```
+In this version, get_env_variable function will take care of getting the environment variables and will throw an exception if one is not set and no default value is provided. This improves code reusability and provides better error management. Please remember to adjust this function according to your specific needs.
+
+2024-07-29 19:46:30,547 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 7) (<string>, line 7)
+2024-07-29 19:46:30,547 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/config/settings.py, skipping.
+2024-07-29 19:46:30,547 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/config/__init__.py...
+2024-07-29 19:46:39,749 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:46:39,752 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/config/__init__.py:
+The code you provided appends the grandparent directory of the current running script to the system search path. It's elegant and there aren't significant improvements to be made. However, the clarity of the code could be improved with comments:
+
+```python
+import sys
+import os
+
+# Get the directory that the current running script resides in
+current_script_dir = os.path.dirname(__file__)
+
+# Get the grandparent directory
+parent_dir = os.path.abspath(os.path.join(current_script_dir, '..', '..'))
+
+# Add the grandparent directory to the system search path
+sys.path.append(parent_dir)
+```
+
+It's a best practice to explain what the code does by using comments, especially when working on a project with other developers. Your original code isn't incorrect or inefficient. The recommendation is purely about style and enhancing readability.
+
+2024-07-29 19:46:39,752 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 19:46:39,752 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/config/__init__.py, skipping.
+2024-07-29 19:46:39,753 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/orchestrator/main.py...
+2024-07-29 19:46:59,543 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:46:59,545 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/orchestrator/main.py:
+The script seems to be well-structured overall. However, here are some changes or improvements that could potentially lead to better performance, maintainability, and readability:
+
+1. Refactor Code: The `run_bot` function is quite long and does a lot of things. Consider breaking it down into smaller, well-defined functions. This could make your code easier to maintain, debug and test individually.
+
+2. Error Handling: It might be useful to have more precise exception handling. For instance, you could handle requests exceptions and JSON decode errors separately. This would allow you to provide more specific error messages.
+
+3. DRY (Don't Repeat Yourself): You have to repeat 'http://localhost:800x' multiple times. DRY principles suggest it's better to define it once (maybe as a global constant) and use it everywhere.
+
+4. User-configurable Parameters: Consider moving configurable items (like email recipient, server addresses etc.) to a separate config file or using environment variables. It's generally not a good idea to hard code such parameters, as they tend to vary between different environments (production, development, testing, etc.).
+
+5. Use of logging: It's recommended to not use root logger directly as with `logging.info/error`. Instead, create a dedicated logger for your module via `logger = logging.getLogger(__name__)` and use that. This provides more flexibility in logger configuration down the line.
+
+6. HTTP Status Codes: Instead of checking the status code directly like `response.status_code == 200`, consider using the built-in HTTPStatus enums for readability: `response.status_code == HTTPStatus.OK`.
+
+7. Shutdown operations: The shutdown operations at the very end of your function could potentially fail if one of the previous steps throws an exception. You may want to use a finally block to ensure these steps are always executed.
+
+8. main guard: Instead of calling `run_bot()` in the script's main guard (`if __name__ == "__main__":`), you might want to call a `main()` function that takes care of setting up logging, reading configuration, etc. before calling `run_bot()`.
+
+2024-07-29 19:46:59,545 - ERROR - SyntaxError in suggestions: invalid decimal literal (<string>, line 7)
+2024-07-29 19:46:59,545 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/orchestrator/main.py, skipping.
+2024-07-29 19:46:59,545 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/orchestrator/__init__.py...
+2024-07-29 19:49:33,954 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 19:49:58,278 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:49:58,281 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+Looking at your Python code, it seems to be nicely written and does its job correctly. But there is always room for improvements or personal preference changes. Here are some suggestions:
+
+1. **Error Handling**: Your current test case only tests a happy path scenario. It's good to test each error case as well. You might want to add boundary edge test cases or negative scenarios. 
+
+2. **Test Isolation**: In your test of OpenAI API accessibility, printing "OpenAI API is accessible and returned a valid response" if the test is successful could potentially be skipped. Typically in tests, we reflect the success of the test by it passing, rather than printing success messages. 
+
+3. **Model Name in .env**: At present, you've hard-coded the model name 'gpt-4' in your test, while your API key is being set up from environment variables. You could consider moving the model name to be set up from the environment variables as well, same as API key. This will give more flexibility when there is a need to test on different models.
+
+4. **Refactoring Tests**: Your test case `test_openai_api_access` is doing a lot - from making an API request, to validating the output. While this is fine, a potential improvement could be to separate these out into focused test cases or helper functions.
+
+5. **Mocking Responses**: To make your tests faster and not dependent on the OpenAI service, you can use a mocking tool to mock the responses of OpenAI API.
+
+6. **Docstrings**: Add docstrings to your methods to provide better documentation and understanding of what the test is intended to do.
+
+7. **Dependency Injection**: From best practices point of view, consider initializing OpenAI client out of the TestCase and injecting it as a dependency. This might be useful when you have multiple test files / classes, and you want to avoid initializing client in each of them.
+
+Remember, these are just suggestions. Your code looks well-organized as it is. If you're just writing tests for a single client in a single file, it might not be worth it to implement all of these suggestions. But as your tests grow and become more complex, you might find this advice more relevant.
+
+2024-07-29 19:49:58,282 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 19:49:58,282 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 19:49:58,282 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 19:50:29,384 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:50:29,385 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py:
+This Python script looks well-structured and comprehensive. It's designed to automatically review and improve various Python scripts in a directory through OpenAI's GPT model suggestions, backups, and validation checks. That said, there are a few improvements or changes that could potentially improve the code further:
+
+1. **Use of Context Manager to Handle Files:**
+In functions `check_processed_files` and `mark_file_as_processed`, you open the file but there is no `close()` call after finishing file operations. Although not closing a file might not have a significant impact in your script, it's still a good practice to close the file as it guarantees that changes are actually saved on the disk.
+
+    Instead of:
+    ```python
+    with open(processed_files_path, 'a') as file:
+        file.write(file_path + '\n')
+    ```
+    Use:
+    ```python
+    with open(processed_files_path, 'a') as file:
+        file.write(file_path + '\n')
+        file.close()
+    ```
+
+2. **Configurable Logging Level:**
+Currently, the logging level is hardcoded to INFO. You could make this configurable by adding a command-line argument or environment variable to allow adjusting the logging level as needed. 
+
+3. **Exception handling for File and OS Operations:**
+You handle exceptions well throughout when it comes to File Operations or Subprocess calls. Similarly, it would be good to handle the potential `OSError` in the `os.walk()` iteration as well, as filesystem operations can fail due to many reasons.
+
+4. **Avoid Repeated API Calls:**
+In your current implementation, you make an API call to the OpenAI model each time an error occurs. If you frequently encounter errors, you may end up making a large number of API calls, which might be costly. As an optimization, you might want to add a retry mechanism before requesting suggestions from the OpenAI model again.
+
+5. **Optimize your `scan_and_process_directory` function:**
+In the `scan_and_process_directory` function, you're running the tests and main Python script for every Python script you process, which can significantly slow down the program if you have many scripts and a large main application. Consider moving the `run_tests` and `run_main` functions outside of the `for` loop, running them once after all scripts have been processed.
+
+6. **Handle Sleep and Repeat Mechanism:**
+You are using `time.sleep(60)` at the end of your `scan_and_process_directory` function, which means the function will continuously execute after a delay of 60 seconds. Although the Python script is designed to run continuously, instead of using an infinite loop, consider using job schedulers like cron, or Python libraries like schedule. Or you can build in additional functionality to stop execution after a while, or after all scripts have been processed.
+
+7. **Hard-Coded model:**
+The `gpt-4` model you specified does not exist at the moment. You may want to correct this as it might cause your script to fail.
+
+2024-07-29 19:50:29,385 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 4) (<string>, line 4)
+2024-07-29 19:50:29,386 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py, skipping.
+2024-07-29 19:50:29,386 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/config/settings.py...
+2024-07-29 19:53:00,869 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 19:53:25,240 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:53:25,243 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+This code is quite clean and functional. Here are a few suggested changes or improvements that you could consider:
+
+1. Exception Handling: Currently, any exception thrown in `test_openai_api_access` is handled in the except block with a general instance of Exception. It might be more useful to specifically handle different types of Exceptions separately to have more control over the error handling process. For example, separating network errors from other types of errors.
+
+2. Logging: Rather than using print statements, consider using a dedicated logging library. Python's standard logging library would be much more flexible and powerful than print statements. It can allow different logging levels (info, debug, error, etc.), output to various locations, and is more adjustable to different scenarios.
+
+3. Mocking API Calls: Depending on what you are trying to accomplish with your tests, making actual API calls might not be the best approach. If you're interested in testing the functionality of your code rather than the availability of the external API, consider mocking the API responses. This approach will make your tests faster, less flaky and will make it easier to test edge cases.
+
+4. .env file Assertion: The current code blindly trusts that .env file is loaded correctly. You may want to add a fail case scenario where .env file fails to load.
+
+5. Testing for specific Outputs: To further validate the results of the API call, you could check if the chat response is in a certain expected format or contains certain keywords.
+
+6. Use of unittest: Consider using pytest if possible, as it is more powerful and flexible, and tends to be easier to use.
+
+7. Environment Variables: Lastly, ensure the environment variable OPENAI_API_KEY is properly set and secured, especially if this code is for a public repository, to prevent exposure of secure keys.
+
+2024-07-29 19:53:25,244 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 5) (<string>, line 5)
+2024-07-29 19:53:25,244 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 19:53:25,244 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 19:53:55,458 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:53:55,459 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py:
+The script you've written is already quite robust and follows good Python coding practices. However, as with any code, improvements can always be made. Here are a few suggestions:
+
+1. **Refactor Large Functions:** Some functions are too long and can be broken into smaller ones. More specifically, the `scan_and_process_directory` function could be divided into smaller, more manageable pieces. Some potential subtasks could be file scanning, processing individual files, and performing error checks.
+
+2. **Logging Levels:** It might be helpful to separate the logging into different levels. For now, you have standard logging for both info and error, but you might want to consider adding debug level logs as well for more granular information when it's needed.
+
+3. **Error Handling:** When copying files or reading/writing to a file, the file might not exist, the disk might be full, or there might be other issues related to the file system. It would be best to add more comprehensive error handling for these scenarios.
+
+4. **Configurable Parameters:** Make values into constants or configuration parameters rather than hardcoding. For example, the sleep time, processed_files.txt, and the '.bak' extension could be turned into constants or parameters specified in a config file or environment variables.
+
+5. **Reusability of pytest command:** You can consider moving the pytest command out to a function, because 'run_script' and 'run_tests' both essentially call subprocess.run.
+
+6. **Dependencies:** If the 'openai' library is not fulfilling all your needs or if you believe another tool could do a better job in a particular section of your code, consider switching dependencies. However, this change can be significant, so it should be made carefully.
+
+7. **Simplify import statements**: import only required modules rather than importing the entire module. This can make your code a bit cleaner and easier to understand.
+
+8. **Error Tolerance:** Currently, if an error occurs then the changes made to a file are reverted. Depending on your use case, you might want to be a bit more tolerant of errors and perhaps comment out the offending lines with an error message rather than reverting all changes.
+
+Remember that these are suggestions, and they mainly relate to improving the clarity and maintainability of your code. Your code's performance and functionality currently appear sufficient.
+
+2024-07-29 19:53:55,460 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 19:53:55,460 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py, skipping.
+2024-07-29 19:53:55,460 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/config/settings.py...
+2024-07-29 19:56:51,158 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 19:57:19,866 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:57:19,869 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+Your code is well-structured, but there are a few areas where you could consider making updates or improvements:
+  
+1. Use `setUp` instead of `setUpClass`: Right now you are setting up the API key and client for all test cases at once using `setUpClass`. If you have more test methods or classes in the future, this can become problematic. It's often better to use `setUp` which is run before each individual test case. Hence setup and teardown becomes isolated for each test case, making them independent of each other.
+
+2. Mock your API calls: In order to make the tests more reliable and less dependent on the actual OpenAI API (which might be down or slow to respond), consider using a library like `unittest.mock` to mock OpenAI API responses. This way your tests aren't reliant on network conditions or the actual service being up.
+
+3. Split the second test into smaller parts: Testing guidelines often recommend having each test check for one specific thing. In `test_openai_api_access`, there are multiple assertions that could be split into individual tests. For example, checking if the response is not `None` could be a different function than checking if it contains choices, and so on. This approach will provide more specific failure messages when something goes wrong.
+
+4. Use environment variable directly: Instead of loading the api key into a class variable, use it directly when creating the client: `cls.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))`. Just make sure the environment variable is loaded before the test is run.
+
+5. Error messages for developers: While your assertions include user-friendly error messages, these messages could include more information for developers. Instead of "API key should not be none," you could say "Environment variable OPENAI_API_KEY not set", for example.
+
+6. Anticipate specific exceptions: Catching a general "Exception" can sometimes be too broad, and can mask more serious issues in your code. If there are specific exceptions you want to handle with `self.fail()` in the API call, consider catching those instead.
+
+The overall structure of your tests look good, and these changes can bring further enhancement and reliability.
+
+2024-07-29 19:57:19,870 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 19:57:19,870 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 19:57:19,870 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 19:57:38,592 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 19:57:38,598 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py:
+Your Python code, overall, demonstrates excellent coding practices and responsibilities (error checking, logging, etc.). Still, there are a few potential improvements that can be suggested:
+
+1. **API Key Exposure**: Avoid loading sensitive information like API Keys directly from .env files for safe-keeping and to prevent accidental exposure. A common practice is to use environment variables and access them through `os.environ[]`.
+
+2. **Avoid Hardcoding**: Avoid using hardcoded values like 'gpt-4' or filenames like 'code_suggestions.log'. It would be better to define such constants at the top of your script so that they are easy to modify in the future. 
+
+3. **Use of 'model' in API calls**: There currently exists no 'gpt-4' model in OpenAI API models. It looks like a typo, but you should replace it with existing models like 'text-davinci-002' or 'text-curie-003'.
+
+4. **Retry Mechanism**: In your scan_and_process_directory function, consider adding a retry mechanism to handle temporary issues that might pause the execution of your program. Those could be network issues when reaching the OpenAI service, issues reading or writing files, etc.
+
+5. **Lessen Nested Code**: Your code in some places is heavily nested that can make it hard to read and track. Consider breaking up deeply nested code into more manageable helper functions.
+
+6. **Code Commenting**: Your code is mostly self-explanatory and upholds good coding practices, but a few explanations or commenting might enhance understanding, for example, explaining what does OpenAI function does exactly. 
+
+Please note, some of the improvements might not be necessary depending on the context and usage of the code. Always consider trade-offs based on your project requirements.
+
+2024-07-29 19:57:38,598 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 19:57:38,598 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py, skipping.
+2024-07-29 19:57:38,599 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/config/settings.py...
+2024-07-29 20:01:49,373 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 20:02:12,301 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:02:12,305 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+The Python code you've provided seems well-structured and clearly designed to test loading of OpenAI API keys from an environment file and calling the OpenAI API service using an OpenAI client. Below are some potential improvements you can consider:
+
+1. Exception handling: Currently, you catch all exceptions in a generic block. While this is not necessarily bad, it can be more helpful to catch specific exceptions that you know can occur (like API related errors), then fall back to a generic exception.
+
+2. API Keys check: You might want to further check if the API keys loaded are not only non-empty but are also word characters.
+
+3. Add more commentary: While your code is fairly clear, adding small comments above less obvious lines/types of code can help others.
+
+4. GPT-4 doesn't exist: There is no model called "gpt-4" in OpenAI as of my knowledge. You might want to change that to a valid model like "text-davinci-002".
+
+5. Response verification: The tests on the response object can be made more robust. Instead of just checking for the existence of attributes, you could also test the data type or format of the attributes.
+
+6. For the OpenAI API access test, remember that it could be costly to access the API every time you run the unit tests (in terms of costs per API call). You might want to consider mocking the API call response under most circumstances, and only running actual API calls in a CI/CD pipeline or on dedicated demand. 
+
+7. You could also test the behaviour of the `setUpClass` method when no ".env" file is found or when it does not contain the OPENAI_API_KEY variable.
+
+8. Consider breaking your tests into smaller units. By separating concerns, each test verifies a small piece of functionality so when it fails, you know exactly what is wrong. For instance, the `test_openai_api_access` test could be split into multiple tests where you verify response object format, attributes and their types etc.
+
+9. It would be better if the script could be run independently or tested against different scenarios of the .env file. You can make use of setUp and tearDown methods for this. The setUp method will run before each test method execution and tearDown will run after each test method execution.
+
+2024-07-29 20:02:12,305 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 20:02:12,305 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 20:02:12,305 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 20:02:37,863 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:02:37,864 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py:
+The Python code you've provided is quite comprehensive, and most of the functions are well-structured and perform specific tasks. I do have a few suggestions that could improve the code:
+
+1. Model Selection: There is a call to the non-existent model "gpt-4". The largest version of GPT currently available via OpenAI's API is model="text-davinci-003". You'll need to replace the non-existent "gpt-4" with a model that exists.
+
+```python
+response = client.chat.completions.create(
+    model="text-davinci-003",  # or "text-curator-003"
+```
+
+2. Error Handling: Some error handling could be improved. For instance, in your `run_script` function, you could add more details about what specifically went wrong when running a script. 
+
+3. Sleep Interval: You might want to consider adding a configuration for the sleep interval, rather than hardcoding it to 60 seconds. 
+
+4. Code Redundancy: The `get_code_suggestions` and `get_error_suggestions` functions share a lot of code. You might want to refactor these two functions into a single function that takes the message as an argument.
+
+5. Documentation: Documenting your code with Docstrings for functions and classes or comments for major code sections helps others (and future you) understand your code better.
+
+6. Module Organization: The global setting like logging configuration and environment variable loading could be moved to separate functions for better readability and code organization.
+
+7. Testing: It appears you only test existing functions with blanks, it would be helpful to have some test cases for the functions or use a testing framework. 
+
+8. Function Complexity: The `scan_and_process_directory` function is doing many things, and its cyclomatic complexity could be high. This might make it harder to maintain or debug. Consider breaking it up into several helper functions.
+
+9. User Input: It may be beneficial to ask the user for confirmation before applying changes to their code, or even give them the option to review changes before they're applied.
+
+10. Usage Logging: For debugging purposes, you might want to include more logging. 
+    For example, you can add a debug log in the `apply_suggestions` method to show what code changes are being made: 
+```python
+log_debug(f"Applying suggestions:\n{suggestions}\nTo code:\n{code}")
+```
+
+2024-07-29 20:02:37,864 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 20:02:37,864 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py, skipping.
+2024-07-29 20:02:37,865 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/config/settings.py...
+2024-07-29 20:25:04,708 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 20:25:04,848 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-29 20:25:04,850 - ERROR - Error getting suggestions: Error code: 404 - {'error': {'message': 'The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-07-29 20:25:04,851 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+
+
+2024-07-29 20:25:08,607 - INFO - Script /home/ubuntu/environment/Softbase_Bot/test_openai_api.py ran successfully.
+2024-07-29 20:25:13,018 - INFO - All tests passed.
+2024-07-29 20:25:13,042 - ERROR - run_all.py failed with error:
+python3: can't open file '/home/ubuntu/environment/Softbase_Bot/run_all.py': [Errno 2] No such file or directory
+
+2024-07-29 20:25:13,891 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 20:25:14,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-29 20:25:14,011 - ERROR - Error getting suggestions: Error code: 404 - {'error': {'message': 'The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-07-29 20:25:14,011 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+
+
+2024-07-29 20:29:07,938 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 20:29:25,984 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:29:25,988 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+The code you've written is pretty good. That said, there are always potential changes or improvements that can be made based on the specific context or requirements of your project. Here are a few ideas:
+
+1. **Error Handling**: For the `setUpClass` method, you should consider adding some error handling for the possibility of not finding the `.env` file or the `OPENAI_API_KEY` environment variable.
+
+2. **Use of hardcoded value**: You have hardcoded the model ("gpt-4") in your `test_openai_api_access` method. A more flexible approach would be to externalize this by setting it as a constant at the beginning of your file or as an environment variable.
+
+3. **Multiple Assertions**: Try to restrict a unit test to a single assertion. If this isn't possible, it might indicate that the test method is doing too much.
+
+4. **Providing Context to Assertions**: Your "assert" statements could benefit from more descriptive failure messages. When an assertion fails, having a clear error message can save a lot of debugging time.
+
+5. **Use setUp method**: If the set up process doesn't take long, consider using the `setUp` method instead of `setUpClass`. This ensures a fresh start for each test method. You can put `load_dotenv()` and `os.getenv("OPENAI_API_KEY")` in `setUp` so that they run before every test method.
+
+6. **Remove Print Statements**: Unit tests should generally use assertions to indicate success or failure. The presence of a print statement suggests this test might be used for manual verification as well, which isn't a good practice. If you want to keep it, consider using a logger instead.
+
+Remember, these are just suggestions. The importance of each item may vary depending on your exact context and project requirements.
+
+2024-07-29 20:29:25,988 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 20:29:25,988 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 20:29:25,989 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/main.py...
+2024-07-29 20:30:11,884 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:30:11,885 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/main.py:
+Here are a few changes that may improve this code:
+
+1. Adding error handling in the subprocess: right now, if any of the microservices fail to start or crashes for some reason, your main script will not be aware of it. The Popen object stores the exit code and the stderr outputs, so you can use that to detect crashes and handle accordingly.
+
+2. Splitting main program and function: the script currently runs as a big main program. This can make it difficult to reuse and test. Consider creating separate functions.
+
+3. Adding logging: instead of using print statements, consider using Python's built-in `logging` module. It's more flexible and can be configured to output log messages to different destinations (console, file, etc.).
+
+4. More robust way to add PYTHONPATH: Instead of manually setting up the 'PYTHONPATH', consider using `site` packages `site.addsitedir` which is more robust.
+
+5. Graceful shutdown: `process.terminate()` sends a SIGTERM signal to the subprocess which might not allow it to terminate gracefully. Depending upon the application, it might be better to send a SIGINT signal via `process.send_signal(signal.SIGINT)` before terminating it, which causes the application to receive KeyboardInterrupt and can perform a graceful shutdown.
+
+6. Avoid hardcoded sleep: The hardcoded sleep while waiting for a service to start may lead to issues if the service takes longer than 5 seconds to start. You could import a library like `requests` or `httplib` to periodically send a `GET` request to `localhost:port` to see if the service is up and running.
+
+7. Use context manager for processes: Context managers can help ensure resources are properly cleaned up when you are done with them. You can build a custom context manager that wraps a process, so you can use `with` syntax and don't have to worry about forgetting to terminate processes.
+
+8. Avoid using wildcard imports: Using `import *` is considered bad style as it can lead to hard-to-debug import errors and name clashing. It's better to import only what you need.
+
+9. Document the script: The code does not have any comments or docstrings. This may make the code hard to understand for someone else (or even you) in the future. Incorporating comments can be helpful. 
+
+Your updated code might look something like this:
+
+```python
+import subprocess
+import time
+import os
+import sys
+import signal
+import logging
+
+# Configure logging
+logging.basicConfig(format='%(message)s', level=logging.INFO)
+
+# Add the project root directory to PYTHONPATH
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '.'))
+sys.path.append(project_root)
+os.environ['PYTHONPATH'] = project_root
+
+services = [
+    ("AI Service", "ai_service/main.py", 8001),
+    ("Data Cleaner Service", "data_cleaner_service/main.py", 8002),
+    # ...
+]
+
+def start_process(name, script_path, env):
+    """Start a subprocess with logging and return the Popen handle."""
+    logging.info(f"Starting {name}...")
+    process = subprocess.Popen(["python", script_path], env=env.copy())
+    logging.info(f"{name} started.")
+    return process
+
+def wait_processes(processes):
+    """Wait for subprocesses to complete, with error handling."""
+    for name, process in processes:
+        ret = process.wait()
+        if ret != 0:  # Process ended with an error
+            logging.error(f"{name} exited with error code {ret}")
+
+if __name__ == "__main__":
+    processes = []
+    try:
+        for name, script_path, port in services:
+            process = start_process(name, script_path, os.environ)
+            processes.append((name, process))
+            if port:
+                time.sleep(5)  # Consider adding actual check for running service here
+        wait_processes(processes)
+    except KeyboardInterrupt:
+        logging.info("Shutting down all services...")
+        for name, process in processes:
+            process.send_signal(signal.SIGINT)
+            process.wait()
+            logging.info(f"{name} terminated.")
+```
+Please, adapt this code the way you need. This is just an example of how you can improve your current implementation.
+
+2024-07-29 20:30:11,886 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 15) (<string>, line 15)
+2024-07-29 20:30:11,886 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/main.py, skipping.
+2024-07-29 20:30:11,886 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 20:33:44,719 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 20:34:08,427 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:34:08,430 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+The overall structure of your Python unittest code is sound and it tests the critical parts such as the validity of the API key and successful API access. Here are a few suggestions to make the code easier to maintain, more robust, or more informative:
+
+1. **Abstract out the API call**: Move the API call to a separate method. This approach will help to maintain the test if the API changes in the future and increases code reusability.
+
+2. **More Detailed Testing**: Although you have checked for a non-empty response from the API, you could also validate the response content more thoroughly. For example, you could ensure the presence of specific keys in the response, or validate that it's of a specific type or check that the message content is indeed a string.
+
+3. **Environment Variables**: It's good that you are loading API keys from an environment file for security reasons. However, there aren't any fallbacks or helpful error messages if the ".env" file doesn't exist or the OPENAI_API_KEY variable isn't set. You could include error handling to provide clear information to the user if these conditions are met.
+
+4. **Logging**: It's not particularly good practice to print inside a test, you could consider using `logging` for non-critical output messages.
+
+5. **Test Documentation**: Add comments for each test method to briefly explain what is being tested and what the expected results are.
+
+6. **Model Name**: Consider storing `"gpt-4"` as a constant at the start of your file, or even storing it as an environment variable that is loaded in the same manner as the API key. If the model name changes in the future, you won't have to hunt through your code, looking for where it needs to be updated.
+
+Hope these suggestions bring a positive impact on your code! You're already doing a great job in setting up and structuring your tests, so these are just minor potential improvements.
+
+2024-07-29 20:34:08,431 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 5) (<string>, line 5)
+2024-07-29 20:34:08,431 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 20:34:08,431 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/main.py...
+2024-07-29 20:34:45,046 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:34:45,047 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/main.py:
+Here are some suggestions to improve your code:
+
+1. **Modularize the Code**: You can modularize your code by moving different parts of it into functions, which makes the code easier to understand and maintain. For instance, you can have separate functions for starting services, waiting for services, and handling keyboard interrupts.
+
+2. **Improve Error Handling**: Currently, your code only handles Keyboard Interrupts. You could add more try-except blocks to cater for different exceptions, such as FileNotFoundError while trying to run services that do not exist, or OSError for issues with environment variables.
+
+3. **Use `subprocess.run()` Instead of `subprocess.Popen()`**: You can use `subprocess.run()` which is recommended higher-level API for most use cases compared to `subprocess.Popen()`. It manages the nuances of argument passing, handles common exceptions, and provides control over stdin, stdout, and stderr.
+
+4. **Improve Logging**: Instead of using just `print()` statements, Python’s built-in `logging` module can be used which provides a more flexible platform for emitting log messages from Python programs. It lets you specify which events are logged and which aren't at runtime and it's easier to turn on and off which messages get logged.
+
+Here's these suggestions implemented:
+
+```python
+import subprocess
+import time
+import os
+import sys
+import logging
+
+# Set up logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+# Add the project root directory to PYTHONPATH
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '.'))
+sys.path.append(project_root)
+os.environ['PYTHONPATH'] = project_root
+
+services = [
+    ("AI Service", "ai_service/main.py", 8001),
+    ("Data Cleaner Service", "data_cleaner_service/main.py", 8002),
+    ("Data Loader Service", "data_loader_service/main.py", 8003),
+    ("Notification Service", "notification_service/main.py", 8004),
+    ("Orchestrator", "orchestrator/main.py", None)
+]
+
+def start_services():
+    processes = []
+    try:
+        for service_name, script_path, port in services:
+            logger.info(f"Starting {service_name}...")
+            try:
+                process = subprocess.run(["python", script_path], env=os.environ.copy())
+                processes.append((service_name, process))
+                if port:
+                    time.sleep(5)  # Wait for the service to start up
+
+                logger.info(f"{service_name} started.")
+            except (FileNotFoundError, OSError) as e:
+                logger.error(f"Error while starting {service_name}: {e}")
+    except KeyboardInterrupt:
+        logger.info("Shutting down all services...")
+        terminate_services(processes)
+
+def terminate_services(processes):
+    for service_name, process in processes:
+        logger.info(f"Terminating {service_name}...")
+        process.terminate()
+        process.wait()
+        logger.info(f"{service_name} terminated.")
+
+if __name__ == "__main__":
+    start_services()
+```
+
+Please note: if you use `subprocess.run()`, please make sure that all your services can be run and exited properly as `subprocess.run()` will wait until the process is complete. If your services are long running, stick to `subprocess.Popen()`.
+
+2024-07-29 20:34:45,048 - ERROR - SyntaxError in suggestions: invalid character '’' (U+2019) (<string>, line 9)
+2024-07-29 20:34:45,048 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/main.py, skipping.
+2024-07-29 20:34:45,048 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 20:35:19,763 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:35:19,765 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py:
+Your code is pretty solid and covers multiple components of a Python project like logging, error handling, unit test generation, and even talking to an OpenAI model - all of this is very impressive. However, here are some changes and improvements you can make:
+
+1. **Refactoring `scan_and_process_directory` function**: The function `scan_and_process_directory` could be refactored for better readability. The current function does many different tasks, so breaking it down into smaller, simpler functions would make the code easier to maintain and understand. For example, you could have separate functions for finding all Python files to process, deciding if a file should be processed and processing a file.
+
+2. **Selecting Model for OpenAI API**: You seem to be using a `gpt-4` model which does not currently exist. You might want to switch this to `gpt-3` or whatever the current version you have access to.
+
+3. **Use a Config File**: Instead of hard coding your API keys or other configurable settings, consider loading them from a configuration file. This would be more flexible and allow you to easily tweak your program's behavior without having to modify the code itself.
+
+4. **Exception Handling**: Consider including more specific exception handling. Instead of catching all exceptions, you should aim to catch specific exceptions that you know might occur. This will make troubleshooting easier as you'll know the exact type of error that occurred.
+
+5. **Docstrings**: Remember to write docstrings for all your functions. This type of comment is a specific kind of structured comment that most Python style guides and IDEs recognize. Here you define what the function does, what the input parameters are, what it returns etc.
+
+6. **Use of pathlib module**: You heavily use the `os` module to work with paths and files. The `pathlib` module might be more suitable, particularly in situations where you switch between different operating systems since it ensures that the file paths are created correctly on all operating systems.
+
+7. **Coding Standards**: Consider following PEP8 style guide. It provides a set of rules that helps programmers to make their code more readable. For example, lines should not exceed 79 characters. 
+
+8. **Testing**: Consider writing real unit tests for your functions in a separate file and running these tests during development and as part of your CI/CD pipeline. The `unittest` module can help with this. Currently, you're generating a test file but not actually validating whether the code behaves as expected.
+
+Remember, there is always room for improvement when coding. It is always a good idea to periodically review your work and refactor/rework areas where new techniques, modules, or best-practices can be applied.
+
+2024-07-29 20:35:19,765 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 7) (<string>, line 7)
+2024-07-29 20:35:19,765 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py, skipping.
+2024-07-29 20:35:19,765 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/config/settings.py...
+2024-07-29 20:38:26,645 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 20:39:02,571 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:39:02,575 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+Here are a few suggestions to improve your Python unit test code:
+
+1. Environment Variables: It's a great practice using environment variables for sensitive information. Instead of re-declaring `cls.api_key` and `cls.client` in `setUpClass`, you might do it in an instance setUp method, which would run before each test.
+
+2. API Key Test: Instead of checking if the API key is not none AND if its length is greater than 0, you could simply check if it's a truthy value, which would cover both scenarios.
+
+3. Using setUp method: The `setUp` method runs before each test. Here, you can set up objects that will be used in the tests.
+
+4. Separate Complex Test into Different Unit Tests: The `test_openai_api_access` method is doing a lot of assertions. It's generally best to have a single assertion per test. This way, if the test fails, you know exactly what it failed on.
+
+5. Using destructuring: Instead of accessing array index directly, try to use destructuring. It's more readable and easier to understand.
+
+6. Exception Logging: Instead of just saying the API access failed, try to console the whole error, which could provide a stack trace and thus be easier to debug.
+
+7. Remove print statements: In production code, try to avoid using print statements. If you need to log something, use a logger.
+
+Here's a modified version of your code incorporating these improvements:
+
+```python
+import os
+import unittest
+from dotenv import load_dotenv
+from openai import OpenAI
+
+class TestOpenAIAccess(unittest.TestCase):
+    
+    def setUp(self):
+        # Load environment variables from .env file
+        load_dotenv()
+        self.api_key = os.getenv("OPENAI_API_KEY")
+        self.client = OpenAI(api_key=self.api_key)
+    
+    def test_api_key_loaded(self):
+        """Test if API key is loaded correctly from .env file"""
+        self.assertTrue(self.api_key, "API key should not be None or empty")
+
+    def test_openai_api_access(self):
+        """Test if OpenAI API call is successful"""
+        try:
+            response = self.client.chat.completions.create(
+                model="gpt-4",
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant."},
+                    {"role": "user", "content": "Hello, can you confirm if the OpenAI API is accessible?"}
+                ]
+            )
+            self.assertIsNotNone(response, "Response should not be None")
+
+            choices = getattr(response, 'choices', None)
+            self.assertNotEquals(choices, None, "Response should contain 'choices'")
+            self.assertGreater(len(choices), 0, "Response 'choices' should not be empty")
+        except Exception as e:
+            self.fail(f"OpenAI API access failed with exception: {e}")
+
+    def test_response_message_structure(self):
+        """Test if the response structure is as expected"""
+        # Assuming that the test_openai_api_access passed and here we're using the same response
+        response = self.client.chat.completions.create( ... ) # the same arguments
+        first_message = response.choices[0].message
+        self.assertIsNotNone(first_message, "The first message in 'choices' should not be None")
+        self.assertTrue(hasattr(first_message, 'content'), "Message should contain 'content'")
+    
+if __name__ == "__main__":
+    unittest.main()
+```
+
+Please replace `...` with the actual arguments in the final unit test. You can also enhance it by mocking the requests instead of hitting actual OpenAI API in each test. With that, you would be able to run tests even if you aren't connected to the internet or without eating into your API requests limit. Mocking also enables enhanced error testing. For that, you can use libraries like `unittest.mock`, `httpretty` or `responses`.
+
+2024-07-29 20:39:02,575 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 20:39:02,576 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 20:39:02,576 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/main.py...
+2024-07-29 20:42:47,021 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 20:43:05,971 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:43:05,974 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+The Python code you have appears to be well-written, but there are a few improvements or changes that could be made for better robustness and readability:
+
+1. Handling the exception more gracefully: Right now, any exception that occurs during the `test_openai_api_access` test will fail the test. It might be more useful to know what specific exception was raised and handle them differently. For example, different messages could be printed for an `HTTPError` (connection issue) versus a `ValueError` (incorrect parameters).
+
+2. Clear and concise comments: Although the code is clear, adding some more comments could help explain the purpose of the code, especially around the parts where you are interacting with the OpenAI API. So, future code readers and maintainers would find it easier to understand.
+
+3. Use environment variable directly: Instead of loading the environment variable into a class variable in `setUpClass`, you could just call `os.getenv("OPENAI_API_KEY")` directly in the `test_openai_api_access` method. This eliminates the need for a class variable and makes the code a bit cleaner.
+
+4. Checking the API key validity: You could add a test that verifies the validity of the API key before making any request to make sure the error isn't due to an invalid API key.
+
+5. Splitting up the tests: The `test_openai_api_access` method is testing several things at once (if the API responds, if it returns choices, etc.). It might be beneficial to split each of these checks into its own test.
+
+Remember, these suggested changes are not inherently faults in your code, but are considerations to improve maintainability, robustness and readability. The tests, as they are, should function correctly.
+
+2024-07-29 20:43:05,975 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 9) (<string>, line 9)
+2024-07-29 20:43:05,975 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 20:43:05,975 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/main.py...
+2024-07-29 20:43:34,521 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:43:34,523 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/main.py:
+Overall, the script seems to be in good working order, but we may improve the code quality by applying some best practices and Pythonic idioms.
+
+Here are a few suggestions:
+
+1. Separation of Concerns: You can separate the logic of starting and stopping services into their own functions for better readability and maintainability.
+
+2. Error Handling: Apart from KeyboardInterrupt, your script may get interrupted by other exceptions. Therefore, it's a good idea to add general exception handling to capture unexpected errors (such as a service script not being found at the specified path).
+
+3. Environment Variables: Instead of manually setting the 'PYTHONPATH', consider specifying it directly in the operating system or within your IDE settings.
+
+4. String Formatting: Consider using f-string for better performance and more readability.
+
+Here's the same code implementing these suggestions:
+
+```python
+import os
+import sys
+import time
+import subprocess
+
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '.'))
+sys.path.append(project_root)
+os.environ['PYTHONPATH'] = project_root
+
+services = [
+    ("AI Service", "ai_service/main.py", 8001),
+    ("Data Cleaner Service", "data_cleaner_service/main.py", 8002),
+    ("Data Loader Service", "data_loader_service/main.py", 8003),
+    ("Notification Service", "notification_service/main.py", 8004),
+    ("Orchestrator", "orchestrator/main.py", None)
+]
+
+def start_services(services):
+    processes = []
+    for service_name, script_path, port in services:
+        print(f"Starting {service_name}...")
+        try:
+            process = subprocess.Popen(["python", script_path], env=os.environ.copy())
+            processes.append((service_name, process))
+        except Exception as e:
+            print(f"An error occurred while starting {service_name}: {e}")
+
+        if port:
+            time.sleep(5)  # Wait for the service to start up
+        print(f"{service_name} started.")
+    return processes
+
+def stop_services(processes):
+    print("Shutting down all services...")
+    for service_name, process in processes:
+        print(f"Terminating {service_name}...")
+        try:
+            process.terminate()
+            process.wait()
+            print(f"{service_name} terminated.")
+        except Exception as e:
+            print(f"An error occurred while terminating {service_name}: {e}")
+
+def run_services(services):
+    try:
+        processes = start_services(services)
+    except KeyboardInterrupt:
+        stop_services(processes)
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+if __name__ == "__main__":
+    run_services(services)
+```
+
+Much of your existing script's logic is maintained in the re-factored code, but with the improvements suggested above.
+
+2024-07-29 20:43:34,523 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 7) (<string>, line 7)
+2024-07-29 20:43:34,523 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/main.py, skipping.
+2024-07-29 20:43:34,523 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 20:46:57,319 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 20:47:22,993 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:47:22,996 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+The provided Python code seems good as it contains proper usage of unittest, dotenv, and OpenAI python libraries. It also contains assertions in the unit tests. But here are some recommendations that can potentially improve your code:
+
+1. Commenting on functions: The code could use more comments, specially for the purpose of each function. Well-written comments can describe the intention of the code, making it easier for others to understand.
+
+2. Exception handling: While the code does include exception handling, you might consider more specific error handling. For instance, catching specific error related to connection issues or api key issues and handling them in a specific way.
+
+3. Test more rigorously: While the current tests cover some basic functionality, comprehensive tests could verify not only that a API key exists and the API call was successful, but also that the returned data is correct.
+
+4. Remove print statements: Consider using logging instead of print statements in professional code - they can make it easier to control what gets displayed and when, and can include more information like timestamps.
+
+5. Unit Test Organization: The current test case has class and instance-level setup. If the setup is not shared between multiple test cases, you can use setUp() instance method instead of the setUpClass() class method.
+
+6. Using Test Config Data: Instead of creating a API client and test-call to OpenAI in the main test case, you could separate these responsibilities. Your tests would then only perform assertions on responses and mocks controlled by you.
+
+Please note that you are using model "gpt-4" in your code, but as of my current knowledge, the latest model provided by OpenAI is "gpt-3." 
+
+Also, these recommendations presume that you are trying to functional test the API, not just create some initial unit tests. If your goal is comprehensive unit tests, some of the advice will change.
+
+2024-07-29 20:47:22,997 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 20:47:22,997 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 20:47:22,997 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/main.py...
+2024-07-29 20:48:03,219 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:48:03,220 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/main.py:
+The Python code you have written is logic-wise correct. However, there are a few enhancement which can be made to improve the robustness and readability of the code.
+
+1. Error Handling: Right now, the code only handles a KeyboardInterrupt exception. While this is good to gracefully shutdown the services, what happens if any service couldn't start successfully? The script may end up in an inconsistent state. To ensure better error handling, you could check the status of each subprocess after it's launched and throw an exception if it couldn't start successfully.
+
+2. Logger: Currently, you are using print statements to output debug information. This is good for a small script, but in a larger production system, you probably want to use Python's logging module. You can set different log levels (debug, info, warning, error) and also output to different destinations (console, file, remote server).
+
+3. Comments: The code doesn't have sufficient comments which makes it a bit hard to understand. Adding comments about the main blocks of the code would make it easier for anyone reading the code.
+
+4. Configuration: The code currently has hardcoded service names, script paths, and ports. It may be better to move these things to a config file. This would make it easier to reconfigure the system without changing the code. 
+
+5. Using a Process Management tool: Based on the requirements, you are basically writing a process manager. You can use existing process managers like Supervisord or tools like Docker Compose to manage these services. 
+
+6. Checking if port is up: After starting each service, you are waiting for 5 seconds. It would be better to instead keep checking if the service has successfully started by checking the port till it is up or a maximum timeout.
+
+Here's how you might modify the script with some of these feedback:
+
+```Python
+import subprocess
+import time
+import os
+import sys
+import logging
+
+# Set up logging
+logging.basicConfig(level=logging.INFO)
+
+# Add the project root directory to PYTHONPATH
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '.'))
+sys.path.append(project_root)
+os.environ['PYTHONPATH'] = project_root
+
+services = [
+    ("AI Service", "ai_service/main.py", 8001),
+    ("Data Cleaner Service", "data_cleaner_service/main.py", 8002),
+    ("Data Loader Service", "data_loader_service/main.py", 8003),
+    ("Notification Service", "notification_service/main.py", 8004),
+    ("Orchestrator", "orchestrator/main.py", None)
+]
+
+processes = []
+
+try:
+    for service_name, script_path, port in services:
+        logging.info(f"Starting {service_name}...")
+        process = subprocess.Popen(["python", script_path], env=os.environ.copy())
+        processes.append((service_name, process))
+
+        if process.poll() is not None:
+            raise Exception(f"Failed to start {service_name}")
+
+        if port:
+            time.sleep(5)  # Wait for the service to start up
+        logging.info(f"{service_name} started.")
+
+    # Wait for all processes to complete
+    for service_name, process in processes:
+        process.wait()
+
+except KeyboardInterrupt:
+    logging.info("Shutting down all services...")
+    for service_name, process in processes:
+        logging.info(f"Terminating {service_name}...")
+        process.terminate()
+        process.wait()
+        logging.info(f"{service_name} terminated.")
+
+except Exception as ex:
+    logging.error(f"Error: {str(ex)}")
+```
+
+2024-07-29 20:48:03,220 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 20:48:03,221 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/main.py, skipping.
+2024-07-29 20:48:03,221 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 20:52:14,470 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 20:52:52,738 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:52:52,741 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+Your code is quite good as it is, it's readable and easy to understand. However, there are a few improvements you can consider:
+
+1. Use `setUp` in place of `setUpClass`: The `setUp` method is used to set up each individual test case, whereas `setUpClass` is used to set up for the entire class. Unless you explicitly want code to run once before all tests (not before each test), you should use `setUp` instead.
+
+2. Catch specific exceptions: It's generally better to catch specific exceptions rather than just `Exception`. This way, you are explicit about what problems you're expecting and taking into account in your code.
+
+3. Various API-related checks: If the completion's model you are using is gpt-4 (this model doesn't exist currently), you may want to check if the model is available before making a request. 
+
+4. You could wrap the API call into a function and call it in your test.
+
+Here's how this could look:
+
+```python
+import os
+import unittest
+from dotenv import load_dotenv
+from openai import OpenAI, OpenAIError
+
+class TestOpenAIAccess(unittest.TestCase):
+    
+    def setUp(self):
+        # Load environment variables from .env file
+        load_dotenv()
+        self.api_key = os.getenv("OPENAI_API_KEY")
+        if self.api_key is None or len(self.api_key) == 0:
+            self.fail("API key should not be None or empty")
+        self.client = OpenAI(api_key=self.api_key)
+    
+    def test_openai_api_access(self):
+        """Test if OpenAI API call is successful"""
+        try:
+            response = self.create_chat_completion("Hello, can you confirm if the OpenAI API is accessible?")
+            self.assertIsNotNone(response, "Response should not be None")
+            self.assertTrue(hasattr(response, 'choices'), "Response should contain 'choices'")
+            self.assertGreater(len(response.choices), 0, "Response 'choices' should not be empty")
+            self.assertTrue(hasattr(response.choices[0], 'message'), "Response choices should contain 'message'")
+            self.assertTrue(hasattr(response.choices[0].message, 'content'), "Message should contain 'content'")
+            print("OpenAI API is accessible and returned a valid response.")
+        except OpenAIError as e:
+            self.fail(f"OpenAI API access failed: {str(e)}")
+            
+    def create_chat_completion(self, message):
+        return self.client.chat.completions.create(
+            model="text-davinci-002",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": message}
+            ]
+        )
+
+if __name__ == "__main__":
+    unittest.main()
+```
+Please test it thoroughly before using, as the suggested changes could have impacts that may not be apparent to me without additional context. It's also important to note that the Python OpenAI client does not support the gpt-4 model as of today. So, you need to replace that with an existing model like 'gpt-3' or 'text-davinci-002'.
+
+2024-07-29 20:52:52,742 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 20:52:52,742 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, requesting correction.
+2024-07-29 20:52:56,621 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:52:56,622 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 20:52:56,622 - ERROR - Failed to correct suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py, skipping.
+2024-07-29 20:52:56,622 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/main.py...
+2024-07-29 20:53:30,764 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:53:30,767 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/main.py:
+Your code seems functional and well-structured with good error handling. However, there are a few improvements that can be made:
+
+1. **Use pathlib for Path Manipulation**: The pathlib library, included in Python 3.4 and above, can be used in place of `os.path` for easier and more intuitive handling of file/directory paths.
+
+2. **Cleanup PYTHONPATH**: You are setting an environment variable 'PYTHONPATH' with the value of `project_root` after adding it to `sys.path`. Make sure you're cleaning it up properly, or it might interfere with other programs.
+
+3. **Proper Port Checking**: You can implement a proper port check to see if the service has really started, rather than using an arbitrary sleep time.
+
+4. **Graceful Termination**: Consider first attempting to terminate the process using a SIGTERM, and if that fails, then fall back on a SIGKILL.
+
+Below is a revision of your code with these improvements:
+
+```python
+import subprocess
+import time
+from pathlib import Path
+import socket
+import os
+import sys
+import signal
+
+# Add the project root directory to PYTHONPATH
+project_root = Path(__file__).resolve().parent
+sys.path.append(str(project_root))
+os.environ['PYTHONPATH'] = str(project_root)
+
+services = [
+    ("AI Service", "ai_service/main.py", 8001),
+    ("Data Cleaner Service", "data_cleaner_service/main.py", 8002),
+    ("Data Loader Service", "data_loader_service/main.py", 8003),
+    ("Notification Service", "notification_service/main.py", 8004),
+    ("Orchestrator", "orchestrator/main.py", None)
+]
+
+processes = []
+
+def check_port(port, host='localhost'):
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        return s.connect_ex((host, port)) == 0
+
+def shutdown_service(service_name, process):
+    print(f"Terminating {service_name}...")
+    process.terminate()
+    try:
+        process.wait(timeout=10)
+    except subprocess.TimeoutExpired:
+        print(f"Force killing {service_name}...")
+        os.killpg(os.getpgid(process.pid), signal.SIGKILL)
+    print(f"{service_name} terminated.")
+
+try:
+    for service_name, script_path, port in services:
+        print(f"Starting {service_name}...")
+        process = subprocess.Popen(["python", script_path], env=os.environ.copy())
+        processes.append((service_name, process))
+        if port:
+            while not check_port(port):
+                time.sleep(1)
+        print(f"{service_name} started.")
+
+    # Wait for all processes to complete
+    for service_name, process in processes:
+        process.wait()
+
+except KeyboardInterrupt:
+    print("Shutting down all services...")
+    for service_name, process in processes:
+        shutdown_service(service_name, process)
+
+finally:
+    # Cleanup PYTHONPATH
+    del os.environ['PYTHONPATH']
+```
+
+I encourage you to adjust this as per your requirements.
+
+2024-07-29 20:53:30,767 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 5) (<string>, line 5)
+2024-07-29 20:53:30,767 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/main.py, requesting correction.
+2024-07-29 20:53:33,770 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:53:33,774 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 20:53:33,775 - ERROR - Failed to correct suggestions for /home/ubuntu/environment/Softbase_Bot/main.py, skipping.
+2024-07-29 20:53:33,775 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 20:59:01,249 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 20:59:21,603 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:59:21,606 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 5) (<string>, line 5)
+2024-07-29 20:59:41,764 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 20:59:41,767 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 7) (<string>, line 7)
+2024-07-29 21:00:20,773 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:00:20,775 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 21:00:20,775 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+
+
+2024-07-29 21:00:25,710 - INFO - Script /home/ubuntu/environment/Softbase_Bot/test_openai_api.py ran successfully.
+2024-07-29 21:00:29,980 - INFO - All tests passed.
+2024-07-29 21:13:37,554 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 21:13:58,287 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:13:58,293 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 21:14:21,429 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:14:21,432 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 21:14:55,008 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:14:55,011 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 21:14:55,011 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+
+
+2024-07-29 21:14:59,148 - INFO - Script /home/ubuntu/environment/Softbase_Bot/test_openai_api.py ran successfully.
+2024-07-29 21:15:02,943 - INFO - All tests passed.
+2024-07-29 21:19:15,152 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/test_openai_api.py...
+2024-07-29 21:19:41,071 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:19:41,077 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 21:20:11,643 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:20:11,646 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 21:20:40,264 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:20:40,267 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 3) (<string>, line 3)
+2024-07-29 21:20:40,267 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/test_openai_api.py:
+
+
+2024-07-29 21:20:45,013 - INFO - Script /home/ubuntu/environment/Softbase_Bot/test_openai_api.py ran successfully.
+2024-07-29 21:20:48,544 - INFO - All tests passed.
+2024-07-29 21:23:23,116 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/main.py...
+2024-07-29 21:23:40,874 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:23:40,878 - ERROR - SyntaxError in suggestions: invalid character '’' (U+2019) (<string>, line 3)
+2024-07-29 21:24:03,523 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:24:03,525 - ERROR - SyntaxError in suggestions: invalid character '’' (U+2019) (<string>, line 3)
+2024-07-29 21:24:26,104 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:24:26,105 - ERROR - SyntaxError in suggestions: invalid character '’' (U+2019) (<string>, line 3)
+2024-07-29 21:24:26,105 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/main.py:
+
+
+2024-07-29 21:24:26,106 - ERROR - SyntaxError in suggestions: 
+2024-07-29 21:24:28,390 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:24:28,391 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 21:24:30,455 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:24:30,457 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 21:24:33,626 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:24:33,627 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 21:24:33,627 - ERROR - SyntaxError in suggestions: 
+2024-07-29 21:24:36,557 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:24:36,559 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 21:24:38,548 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:24:38,549 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 21:24:41,187 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:24:41,189 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 21:24:41,189 - ERROR - SyntaxError in suggestions: 
+2024-07-29 21:24:41,285 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 21:24:41,286 - INFO - Retrying request to /chat/completions in 5.460000 seconds
+2024-07-29 21:38:22,613 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/main.py...
+2024-07-29 21:39:00,696 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:39:00,701 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 7) (<string>, line 7)
+2024-07-29 21:39:39,440 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:39:39,442 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 7) (<string>, line 7)
+2024-07-29 21:40:22,744 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:40:22,745 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 7) (<string>, line 7)
+2024-07-29 21:40:22,745 - INFO - Suggestions for /home/ubuntu/environment/Softbase_Bot/main.py:
+
+
+2024-07-29 21:40:22,746 - ERROR - SyntaxError in suggestions: 
+2024-07-29 21:40:28,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:40:28,084 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 21:40:32,577 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:40:32,580 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 21:40:38,332 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:40:38,334 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 21:40:38,335 - ERROR - SyntaxError in suggestions: 
+2024-07-29 21:40:38,430 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 21:40:38,431 - INFO - Retrying request to /chat/completions in 0.816000 seconds
+2024-07-29 21:40:41,316 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:40:41,317 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 21:40:41,421 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 21:40:41,422 - INFO - Retrying request to /chat/completions in 16.368000 seconds
+2024-07-29 21:41:00,687 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:41:00,689 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 21:41:00,803 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 21:41:00,804 - INFO - Retrying request to /chat/completions in 15.780000 seconds
+2024-07-29 21:41:19,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:41:19,084 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 1) (<string>, line 1)
+2024-07-29 21:41:19,084 - ERROR - SyntaxError in suggestions: 
+2024-07-29 21:41:19,183 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 21:41:19,183 - INFO - Retrying request to /chat/completions in 16.554000 seconds
+2024-07-29 21:41:38,654 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:41:38,656 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 21:41:38,768 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 21:41:38,768 - INFO - Retrying request to /chat/completions in 16.512000 seconds
+2024-07-29 21:41:58,178 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:41:58,179 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 21:41:58,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 21:41:58,284 - INFO - Retrying request to /chat/completions in 16.866000 seconds
+2024-07-29 21:42:18,866 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:42:18,869 - ERROR - SyntaxError in suggestions: invalid syntax (<string>, line 1)
+2024-07-29 21:42:18,870 - ERROR - SyntaxError in suggestions: 
+2024-07-29 21:42:18,870 - ERROR - SyntaxError in suggestions: 
+2024-07-29 21:42:18,870 - ERROR - Invalid suggestions for /home/ubuntu/environment/Softbase_Bot/main.py, skipping.
+2024-07-29 21:42:18,870 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/get_code_suggestions.py...
+2024-07-29 21:42:18,985 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 21:42:18,986 - INFO - Retrying request to /chat/completions in 33.228000 seconds
+2024-07-29 21:45:48,291 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/main.py...
+2024-07-29 21:46:25,180 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:46:25,204 - ERROR - SyntaxError in suggestions: invalid character '–' (U+2013) (<string>, line 19)
+2024-07-29 21:49:01,063 - INFO - Processing /home/ubuntu/environment/Softbase_Bot/main.py...
+2024-07-29 21:49:27,140 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:49:27,145 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 17) (<string>, line 17)
+2024-07-29 21:49:52,241 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 21:49:52,242 - ERROR - SyntaxError in suggestions: unterminated string literal (detected at line 17) (<string>, line 17)
